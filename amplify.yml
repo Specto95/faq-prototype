@@ -1,6 +1,6 @@
 version: 1
 applications:
-  - appRoot: frontend/faq-frontend
+  - appRoot: frontend/front-faq
     frontend:
       phases:
         preBuild:
@@ -12,7 +12,7 @@ applications:
       artifacts:
         baseDirectory: .next
         files:
-          - '**/*'
+          - "**/*"
       cache:
         paths:
           - node_modules/**/*
