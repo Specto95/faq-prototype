@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cómo reinicio mi contraseña?",
+    "answer": "Puedes hacerlo desde ajustes."
+  },
+  {
+    "id": 2,
+    "question": "¿Dónde veo mis facturas?",
+    "answer": "En la sección de pagos."
+  }
+]

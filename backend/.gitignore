@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pkl
+*.sqlite3
+*.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Bytecode / cache
+.mypy_cache/
+.pytest_cache/
+dist/
+build/
+
+# Docker
+*.pid
